@@ -106,9 +106,9 @@ npx playwright show-report
 
 ```
 tests/
-├── TC-01-lead-capture-form-validation.spec.ts
-├── TC-02-sitemap-and-crawlability-verification.spec.ts
-├── TC-03-404-link-verification.spec.ts
+├── lead-capture-form-validation.spec.ts
+├── sitemap-and-crawlability-verification.spec.ts
+├── 404-link-verification.spec.ts
 
 playwright.config.ts
 README.md
